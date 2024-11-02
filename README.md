@@ -1,1 +1,1 @@
-## mris24ソフト班のGitHubです
+# .GitHub
