@@ -1,4 +1,9 @@
 ## mirs24ソフト班のGitHubです
+ダウンロードが必要なのは以下
+- mirs24_esp32
+- mirs_mg5
+- micro_ros_arduino_mirs240x
+
 ### mirs24_esp32
 ESP32に書き込むmicro-ros用のプログラム\
 接続するPC側にmicro-ros agentが必要\
