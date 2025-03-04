@@ -6,7 +6,7 @@ micro_ros_arduino_mirs240xをダウンロードしてArduino IDEにライブラ�
 
 ### mirs_mg5
 MirsをROS2対応させるパッケージ\
-主な機能は\
+主な機能は
 - /odomの出力
 - /cmd_velでの移動対応
 - マイコンのパラメーター調整
